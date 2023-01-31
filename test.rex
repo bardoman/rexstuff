@@ -7,6 +7,8 @@ stem1.3='buckwheat'
 
 Call fun1( stem1)
 
+say 'whats' 'happening'
+
 Return 0
 
 /********************************************/
@@ -17,7 +19,6 @@ interpret "x = "stem".0"
 do i = 1 to x
 interpret "say "stem".i"
 end
-
 
 return 0
 
